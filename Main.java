@@ -21,6 +21,6 @@ public class Main{
     } else {
         System.out.println("Maalesef, dersten kaldiniz.");
    }  
-
+   System.out.println("=== Program Sonlandi ===");
  }
 }
