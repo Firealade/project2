@@ -16,8 +16,8 @@ public class Main{
 
     sc.close();
 
-    if(ortalama >= 50) {
-        System.out.println("Tebrikler, dersten gectiniz!");
+    if(ortalama >= 85) {
+        System.out.println("Harf Notunuz: AA");
     } else {
         System.out.println("Maalesef, dersten kaldiniz.");
    }  
